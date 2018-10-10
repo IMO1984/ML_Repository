@@ -1,0 +1,3 @@
+I am trying to learn python file handling,and trying to write something 
+appending text using writelines method,
+Now another one after a new line caharacter,  now without a new line character,
